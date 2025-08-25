@@ -1,0 +1,63 @@
+**Hackathon**
+
+**Devops**: Development + Operations
+
+\*Developers(who write a code)
+
+\*operations(who deploy/manage system)
+
+-->work together. instead of working in silos.
+
+
+
+--\*Real Time Example--
+
+
+
+imagine you're building a mobile app like swiggy.
+
+
+
+* The developer write a code to add "Track my order" Features.
+* without devops: developer gives code to Ops team -->they ,manuaaly deploy-->bugs happen-->delays.
+* With devops: Code is Automatically tested and deployed -->Customers get updates Faster and Safely.
+
+
+
+
+
+**Develops helps you:**
+
+
+
+* **Release features Faster(like adding new payment method in Zomato)**
+* **Fix bugs quickly(like fixing login issue in IRCTC)**
+* **Automate repetitive tasks(like server restarts, database backups)**
+
+
+
+
+
+**Eight stages of development**
+
+
+
+* **PLAN(Define what to build)**
+* **DEVELOP(Write the code)**
+* **BUILD(Compile code into deployable format)**
+* **TEST(Check for bugs automatically)**
+* **RELEASE(approve the build for deployment)**
+* **DELPOY(push app to server for app store)**
+* **OPERATE(keep app running, fix any issues)**
+* **MONITOR(analyze performance and feedback)**
+
+
+
+
+
+**GitHub Basics:**
+
+
+
+* **Git = Version control System(local)**
+* **GitHub = Online platform to store Git Projects**
